@@ -132,7 +132,7 @@ nav a{
 /* ----- MAIN SECTiON STYLES ----- */
 main section{
 	padding: 1rem;
-	width: calc(100% - 1rem);
+	width: calc(100% - 2rem);
 	max-width: 1000px;
 	margin: 0 auto;
 }
